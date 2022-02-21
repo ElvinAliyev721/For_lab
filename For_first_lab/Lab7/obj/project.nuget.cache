@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipglESb8YZ4kmL8t2MrF1Dv7COko3zy7f44eiprepPANtq435etGeNMKh96KglBKke3xvtYdd7nnSfOzQn6rTw==",
+  "success": true,
+  "projectFilePath": "D:\\visualStudio\\Lab7\\Lab7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

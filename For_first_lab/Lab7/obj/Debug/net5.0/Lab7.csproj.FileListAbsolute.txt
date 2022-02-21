@@ -1,0 +1,16 @@
+D:\visualStudio\Lab7\bin\Debug\net5.0\Lab7.exe
+D:\visualStudio\Lab7\bin\Debug\net5.0\Lab7.deps.json
+D:\visualStudio\Lab7\bin\Debug\net5.0\Lab7.runtimeconfig.json
+D:\visualStudio\Lab7\bin\Debug\net5.0\Lab7.runtimeconfig.dev.json
+D:\visualStudio\Lab7\bin\Debug\net5.0\Lab7.dll
+D:\visualStudio\Lab7\bin\Debug\net5.0\ref\Lab7.dll
+D:\visualStudio\Lab7\bin\Debug\net5.0\Lab7.pdb
+D:\visualStudio\Lab7\obj\Debug\net5.0\Lab7.csproj.AssemblyReference.cache
+D:\visualStudio\Lab7\obj\Debug\net5.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualStudio\Lab7\obj\Debug\net5.0\Lab7.AssemblyInfoInputs.cache
+D:\visualStudio\Lab7\obj\Debug\net5.0\Lab7.AssemblyInfo.cs
+D:\visualStudio\Lab7\obj\Debug\net5.0\Lab7.csproj.CoreCompileInputs.cache
+D:\visualStudio\Lab7\obj\Debug\net5.0\Lab7.dll
+D:\visualStudio\Lab7\obj\Debug\net5.0\ref\Lab7.dll
+D:\visualStudio\Lab7\obj\Debug\net5.0\Lab7.pdb
+D:\visualStudio\Lab7\obj\Debug\net5.0\Lab7.genruntimeconfig.cache
